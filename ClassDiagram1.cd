@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UndoList" Collapsed="true">
+    <Position X="17" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFC_Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="List" Collapsed="true">
+    <Position X="7.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gABAgUAAAAAAAQAAAABQAAAAACEIQQAAgAAACAAQRAI=</HashCode>
+      <FileName>MFC_Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrawShape" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAABAAAAAAIhAAAAAACAAAAEBIAAAAAgAAAA=</HashCode>
+      <FileName>MFC_Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cdot" Collapsed="true">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAABACAAAAABAAACAAAAAAAAAAAAAAQgAgAA=</HashCode>
+      <FileName>MFC_Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cline" Collapsed="true">
+    <Position X="12.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAABACAAAAABAAACAAAQAAAAAAAAAAQgAABA=</HashCode>
+      <FileName>MFC_Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crectangle" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAwAAAAABACAAAQABAAACAAAQAAAAAAAAAAQgAAAA=</HashCode>
+      <FileName>MFC_Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ccircle" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAABACAAAQABAAACEAAQAAABAAAAAAQgAAAA=</HashCode>
+      <FileName>MFC_Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carc" Collapsed="true">
+    <Position X="3.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAABACAAAQABAAACAQAAAAAgAAAAAAQgAAAA=</HashCode>
+      <FileName>MFC_Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cellipse" Collapsed="true">
+    <Position X="10" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAABACCAAQABAAACAAAQAAAAAAAAAAQgAAAA=</HashCode>
+      <FileName>MFC_Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cpolygon" Collapsed="true">
+    <Position X="14.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAABACAAAQABAAACAAAQAAAgAAAAAAQgAAQA=</HashCode>
+      <FileName>MFC_Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LineList" Collapsed="true">
+    <Position X="1" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAAEAAAAQAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>MFC_Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RectangleList" Collapsed="true">
+    <Position X="5.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAEAAAAQAAAAAAACAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFC_Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CircleList" Collapsed="true">
+    <Position X="10" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAEAAAAQAAAAAACQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFC_Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ArcList" Collapsed="true">
+    <Position X="12.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAAEAAAAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFC_Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PolygonList" Collapsed="true">
+    <Position X="14.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAIAAAEBAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFC_Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EllipseList" Collapsed="true">
+    <Position X="3.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAEAAAAQAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>MFC_Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotList" Collapsed="true">
+    <Position X="7.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAEAAAAQAAAAAIAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>MFC_Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMFC_FrameDoc" Collapsed="true">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABggoAAAAABCAiAgAAgQSggAAAAAAgAFAABEAI=</HashCode>
+      <FileName>MFC_FrameDoc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMainFrame" Collapsed="true">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAhCAAAAAAAAAEgSAGCiBAAiCAAAkAAQAAASAAEABA=</HashCode>
+      <FileName>MainFrm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMFC_FrameApp" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAQAAAABAAAAIAA=</HashCode>
+      <FileName>MFC_Frame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="DRAW" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEACgAAAAAAAAIAEAAIAAAIAAAAAJAEAAAAACBAAA=</HashCode>
+      <FileName>Data.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
